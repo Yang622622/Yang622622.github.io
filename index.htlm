@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>个人主页</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部区域 -->
+        <div class="header">
+            <h1>杨双燕</h1>
+            <div class="title">个人主页</div>
+        </div>
+
+        <div class="resume">
+            <!-- 左侧信息 -->
+            <div class="left-side">
+                <div class="avatar">
+                    <img src="images/renwu.jpg" alt="头像">
+                </div>
+                
+                <div class="basic-info">
+                    <p>姓名：杨双燕</p>
+                    <p>年龄：20 岁</p>
+                    <p>籍贯：贵州省黄平县</p>
+                    <p>民族：苗族</p>
+                    <p>学历：本科</p>
+                    <p>专业：会计学</p>
+                </div>
+
+                <div class="contact">
+                    <div class="contact-item">
+                        <i class="icon">📱</i>
+                        <span>19730703679</span>
+                    </div>
+                    <div class="contact-item">
+                        <i class="icon">📧</i>
+                        <span>3191977060@qq.com</span>
+                    </div>
+                </div>
+
+                <div class="skills">
+                    <h3 class="side-title">掌握技能</h3>
+                    <div class="skill-item">
+                        <p>word、excel、PPT等办公软件</p>
+                        <div class="skill-bar"><div class="skill-level" style="width: 90%"></div></div>
+                    </div>
+                    <div class="skill-item">
+                        <p>浙江省计算机二级</p>
+                        <div class="skill-bar"><div class="skill-level" style="width: 80%"></div></div>
+                    </div>
+                    <div class="skill-item">
+                        <p>英语四六级</p>
+                        <div class="skill-bar"><div class="skill-level" style="width: 85%"></div></div>
+                    </div>
+                    <div class="skill-item">
+                        <p>演讲、短跑、快板等</p>
+                        <div class="skill-bar"><div class="skill-level" style="width: 75%"></div></div>
+                    </div>
+                </div>
+
+                <div class="self-evaluation">
+                    <h3 class="side-title">自我总结</h3>
+                    <ul>
+                        <li>丰富的社会实践经历</li>
+                        <li>稳扎求精的专业态度</li>
+                        <li>刻苦好学的个人品质</li>
+                        <li>扎实的专业知识储备</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 右侧内容 -->
+            <div class="right-side">
+                <div class="section">
+                    <h2>
+                        <i class="icon">📚</i>
+                        教育背景
+                    </h2>
+                    <div class="content">
+                        <div class="education-header">
+                            <h3>嘉兴大学</h3>
+                            <span class="date">2024 - 2028</span>
+                        </div>
+                        <p class="major">会计学 本科</p>
+                        <p class="description">系统学习了微观经济学、宏观经济学、管理学原理、基础会计学、马克思主义政治经济学等课程。</p>
+                        <p>学业加权平均分93.39，专业第一。综测成绩专业第二，校一等奖学金。</p>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2>
+                        <i class="icon">💼</i>
+                        实践活动
+                    </h2>
+                    <ul class="content">
+                        <li>大一担任班级学习委员协调老师和同学工作，做好老师与同学之间沟通桥梁。</li>
+                        <li>大一担任校青年志愿服务总队干事，大一学期末，通过层层筛选，担任校青鸟志愿服务总队悦耆部门部长，锻炼了我的组织和协调能力，提升了我的领导能力。</li>
+                        <li>大一期间参与多项比赛，如校级提案大赛、大创赛等，都取得了不错的成绩。</li>
+                        <li>大一期间积极参加校青年志愿者协会和校党员之家组织的志愿活动，热心服务他人，并且组织多次校园活动，都取得了不错的效果。</li>
+                        <li>利用大一寒假参加学校组织的"三下乡"活动，加深了对社会的了解。</li>
+                    </ul>
+                </div>
+
+                <div class="section">
+                    <h2>
+                        <i class="icon">🏆</i>
+                        获奖经历
+                    </h2>
+                    <ul class="content">
+                        <li>2025 年被评为嘉兴大学校级优秀团员，荣获校级一等奖学金。</li>
+                        <li>2024 年获嘉兴大学校级提案大赛二等奖。</li>
+                        <li>2022 年获全国叶圣陶杯三等奖，外研社杯浙江省三等奖。</li>
+                        <li>2023年浙江省绍兴市市直运动会50米第四。</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
